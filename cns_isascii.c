@@ -1,4 +1,4 @@
-#include "cns_chr_hdl.h"
+#include "./inc/cns_chr_hdl.h"
 
 int cns_isascii(int c)
 {
