@@ -1,6 +1,8 @@
 #ifndef CNS_CHR_HDL_H
 # define CNS_CHR_HDL_H
 
+# include <stdio.h>
+
 int	cns_isspace(int c);
 int	cns_isalpha(int c);
 int	cns_isalnum(int c);
